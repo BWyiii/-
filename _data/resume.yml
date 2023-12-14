@@ -10,7 +10,7 @@ photo: "assets/img/IMGyujia.png" #照片可空，不显示
 #联系方式
 contact: #联系方式连接等3~5行
 - text: "pengyj1231@outlook.com" #文本内容
-  href: 'mailto:someone@example.com' #链接，无链接则空  
+  href: 'mailto:pengyj1231@outlook.com' #链接，无链接则空  
   icon: 'icons/email.svg' #图标 svg文件
 - text: "15347904178"
   href: 'tel:15347904178'
