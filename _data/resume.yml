@@ -30,7 +30,7 @@ main: #简历主要内容，
   - title: SKEMA Business School
     duration: "2020年9月 - 目前"
     sub: 法国本科
-    detail: 课程：宏观经济、微观经济、货币、高等数学、金融、统计、计量经济、会计、市场、公司管理、商业法、国际贸易学...
+    detail: GPA:12/20(部分科目年级挂科率50%以上）
 
 - type: skills
   # name: "技能"
@@ -42,9 +42,8 @@ main: #简历主要内容，
     - PowerPoint
   - title: 语言
     items: #itmems 可以小块的方式显示
-    - 中文
-    - 法语
-    - 英语
+    - 法语(B2)
+    - 英语(TOEIC 750)
   - title: 编程语言（初级）
     items: #itmems 可以小块的方式显示
     - HTML
