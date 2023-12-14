@@ -30,7 +30,7 @@ main: #简历主要内容，
   - title: SKEMA Business School
     duration: "2020年9月 - 目前"
     sub: 法国本科
-    detail: GPA : 12/20(无挂科补考经历，年级通过率不足50%）
+    detail: GPA : 12/20(年级通过率不足50%）
 
 - type: skills
   # name: "技能"
