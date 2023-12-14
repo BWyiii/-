@@ -66,10 +66,7 @@ main: #简历主要内容，
     tags:
     - 得分16/20
     summary: 工作总结（均独立完成）
-    detail: 原创设计LOGO、 设计并为茶杯3D建模、策划产品和营销战略、制作15min的视频并配音... 
-    detail: 使用SWOT模型分析企业发展趋势
-    detail: 制定企业CSR战略
-    detail: 使用4P模型制定产品营销策略
+    detail: 原创设计LOGO、 设计并为茶杯3D建模、策划产品和营销战略、制作15min的视频并配音... 使用SWOT模型分析企业发展趋势; 制定企业CSR战略; 使用4P模型制定产品营销策略
 
 - type: projects
   name: Projects
