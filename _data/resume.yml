@@ -52,11 +52,10 @@ main: #简历主要内容，
   - title: 留学咨询中介
     sub: 对接客户
     duration: 2021年1月 - 2021年4月
-    summary: 工作内容
+    title: 工作内容
     detail: 与朋友的初创业合作项目。本人负责对接客户需求（介绍学校、申请方案等）。客源主要为成都实外西区国际部高中生，业务方向主要为欧陆留学
-    summary: 工作成果
+    title: 工作成果
     detail: 成功帮助客户拿到ESSEC BBA项目、巴黎索邦大学传媒专业、巴黎七大经管offer等
-    open: open
 
 - type: skills
   name: 专业技能
