@@ -32,7 +32,7 @@ main: #简历主要内容，
     sub: 法国高商本科-经济与管理
     tags:
     - 法语授课项目[ESDHEM]
-    detail: 课程：宏观-微观经济学、货币学、金融管理、高等数学、统计、计量经济、市场、商业法、基础编程等
+    detail: 课程：宏观-微观经济学、货币学、金融管理、高等数学、统计、计量经济、市场营销、商业法、基础编程等
     
 - type: experience
   name: 学术项目
@@ -52,12 +52,20 @@ main: #简历主要内容，
     open: open
 
 - type: projects
-  name: 实习项目
+  name: 工作经历
   content:
+  - title: 银行对公和对私业务岗
+    sub: 中信银行北分
+    tags: 
+    - 北京
+    duration: 2024年1月初 - 2024年2月底
+    summary: 工作内容与成果
+    detail: 
+    open: open
   - title: 留学咨询中介
     sub: EUROPEAN PANDA
     tags:
-    - 对接客户
+    - 线上
     duration: 2021年1月 - 2021年4月
     summary: 工作内容与成果
     detail: 与朋友的初创业合作项目。本人负责对接客户需求（介绍学校、申请方案等）。客源主要为成都实外西区国际部高中生，业务方向主要为欧陆留学。成功帮助客户拿到ESSEC BBA项目、巴黎索邦大学传媒专业、巴黎七大经管offer等
@@ -85,7 +93,7 @@ main: #简历主要内容，
     items: #itmems 可以小块的方式显示
     - 视频剪辑
     - 平面设计
-    - 3ds MAX
+    - 数据分析
 
 #others 其他简略内容(列表)
 others: #其他列表显示
