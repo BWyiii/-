@@ -70,24 +70,24 @@ main: #简历主要内容，
 - type: skills
   name: '专业技能'
   content: 
-  - title: "办公技能 ："
-    items: #itmems 可以小块的方式显示
-    - Word
-    - Excel
-    - PowerPoint
   - title: "语言 ："
     items: #itmems 可以小块的方式显示
-    - 法语(B2)
+    - 法语(B2);
     - 英语(TOEIC 750/900)
+  - title: "办公技能 ："
+    items: #itmems 可以小块的方式显示
+    - Word;
+    - Excel;
+    - PowerPoint
   - title: "编程语言 ："
     items: #itmems 可以小块的方式显示
-    - HTML
-    - CSS
+    - HTML;
+    - CSS;
     - JavaScript
   - title: "其他技能 ："
     items: #itmems 可以小块的方式显示
-    - 视频剪辑
-    - 平面设计
+    - 视频剪辑;
+    - 平面设计;
     - 电脑装机
 
 #others 其他简略内容(列表)
@@ -99,7 +99,7 @@ others: #其他列表显示
     items: #单行列表
     - 资深游戏玩家;
     - 博物馆爱好者;
-    - 业余诗词写作;
+    - 业余诗词写作
   - title: 关于我
     list:
     - 学习与实践能力强
