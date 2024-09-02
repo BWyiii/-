@@ -67,33 +67,9 @@ main: #简历主要内容，
     detail: 与朋友的初创业合作项目。本人负责对接客户需求（介绍学校、申请方案等）。客源主要为成都实外西区国际部高中生，业务方向主要为欧陆留学。成功帮助客户拿到ESSEC BBA项目、巴黎索邦大学传媒专业、巴黎七大经管offer等。
     open: open
 
-- type: skills
-  name: 专业技能
-  content:
-  
-  - title: 办公技能
-    items: #itmems 可以小块的方式显示
-    - Word
-    - Excel
-    - PowerPoint
-  - title: 语言
-    items: #itmems 可以小块的方式显示
-    - 法语(B2)
-    - 英语(TOEIC 750/900)
-  - title: 编程语言
-    items: #itmems 可以小块的方式显示
-    - HTML
-    - CSS
-    - JavaScript
-  - title: 其他技能
-    items: #itmems 可以小块的方式显示
-    - 视频剪辑
-    - 平面设计
-    - 电脑装机
-
 #others 其他简略内容(列表)
 others: #其他列表显示
-- type: skills
+- type: others
   name: 专业技能
   content:
   
@@ -120,7 +96,7 @@ others: #其他列表显示
 - type: others #ID可以为空
   name: '其他'
   content: #选择需要的格式
-  - title: "兴趣:"
+  - title: "兴趣 : "
     items: #单行列表
     - 资深游戏玩家;
     - 博物馆爱好者;
