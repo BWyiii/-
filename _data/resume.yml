@@ -44,7 +44,7 @@ main: #简历主要内容，
     detail: 使用SWOT模型分析企业发展趋势; 制定企业CSR战略; 使用4P模型制定产品营销策略
   - title: -工作总结
     summary: 均独立完成
-    detail: 原创设计LOGO，绘制四个奶茶纸杯并进行3D渲染建模，策划产品和营销战略，制作15min的视频并配音。
+    detail: 原创设计LOGO，绘制四个奶茶纸杯并进行3D渲染建模，策划产品和营销战略，制作15分钟的视频并配音。
     open: open
 
 - type: projects
