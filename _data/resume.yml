@@ -37,7 +37,7 @@ main: #简历主要内容，
 - type: experience
   name: 学术项目
   content:
-  - title: 模拟创业竞赛
+  - title: 模拟创业项目
     tags:
     - 得分16/20
   - title: -营销部分
