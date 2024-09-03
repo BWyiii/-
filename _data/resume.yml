@@ -28,7 +28,7 @@ main: #简历主要内容，
   name: 教育 #显示名称，空则使用type
   content: #内容基本格式 标题-副标题-日期-详细内容 (都允许空)
   - title: SKEMA Business School
-    duration: "2020年9月 - 2024年6月"
+    duration: "2020年9月 - 至今"
     sub: 法国高商本科-经济与管理
     tags:
     - 法语授课项目[ESDHEM]
