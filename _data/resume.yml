@@ -83,6 +83,7 @@ main: #简历主要内容，
     - PowerPoint
     - HTML
     - CSS
+    - UE5
   - title: "其他技能 ："
     items: #itmems 可以小块的方式显示
     - 视频剪辑
